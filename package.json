@@ -1,8 +1,12 @@
 {
-  "name": "project-restaurant-page",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "yt-module-dropdown",
+  "version": "1.0.2",
+  "description": "My first module in npm",
+  "main": "dist/main.js",
+  "files": [
+    "dist/",
+    "README.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.prod.js",
@@ -12,8 +16,14 @@
     "lintfix": "eslint src/ --fix",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc.json"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "dropdown",
+    "menu",
+    "UI component",
+    "npm",
+    "javascript"
+  ],
+  "author": "Yun Teik",
   "license": "ISC",
   "devDependencies": {
     "@eslint/eslintrc": "^2.1.4",
