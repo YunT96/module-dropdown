@@ -63,7 +63,7 @@ Make sure this function is called after the DOM has loaded.
 
 ### CSS Styles
 
-Override these rules to style customise the dropdown:
+Override these rules to customise the dropdown:
 
 ```css
 * {
