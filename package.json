@@ -1,10 +1,9 @@
 {
-  "name": "yt-module-dropdown",
-  "version": "1.0.3",
+  "name": "yunt-modules",
+  "version": "1.0.0",
   "description": "My first module in npm",
   "main": "dist/main.js",
   "files": [
-    "dist/",
     "src/",
     "README.md"
   ],
