@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* Dropdown Styles */
 .dropdown {
   min-width: 15rem;
   position: relative;
@@ -90,3 +91,5 @@
   display: block;
   opacity: 1;
 }
+
+/* Carousel Styles */

@@ -1,7 +1,7 @@
 {
   "name": "yunt-modules",
-  "version": "1.0.0",
-  "description": "My first module in npm",
+  "version": "1.0.2",
+  "description": "My personal module collection",
   "main": "dist/main.js",
   "files": [
     "src/",

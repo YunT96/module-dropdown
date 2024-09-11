@@ -1,4 +1,5 @@
 import initDropdown from "./dropdown";
+import "./styles.css";
 
 initDropdown();
 
